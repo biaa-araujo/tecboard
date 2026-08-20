@@ -21,7 +21,7 @@
 * {
     margin: 0;
     padding: 0; 
-    box-sizing: border-box;
+/*    box-sizing: border-box;*/
 }
 
 /* estilo desktop */
@@ -79,7 +79,7 @@ section img{
     display: block;
     width: 792px;
     height: 446px;
-    margin: 40px auto;
+    margin: 0px auto;
     
 }
 
